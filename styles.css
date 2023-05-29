@@ -3,6 +3,8 @@ body {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    min-height: 80vh;
+
 }
 header {
     background-color: #f8f9fa;
